@@ -71,7 +71,7 @@ git add .
 
 ```
 
-![alt text](images/images/git_add.png)
+![alt text](images/git_add.png)
 
 ## Adicionar uma arquivo expecífico:
 
@@ -79,7 +79,7 @@ git add .
 git add nome_arquivo.txt
 ```
 
-![alt text](images/images/git_add_file.png)
+![alt text](images/git_add_file.png)
 
 
 ## Status
