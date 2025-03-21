@@ -57,7 +57,7 @@ git merge seu_nome
 ---
 
 ### ✅ Desafio 7 — Criar e resolver um conflito (extra)
-1. Edite a mesma linha no `README.md` na branch `main` e na sua branch;
+1. Edite a mesma linha no `seu_nome.md` na branch `main` e na sua branch;
 2. Faça o merge e resolva o conflito.
 
 ---
