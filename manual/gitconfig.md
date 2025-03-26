@@ -3,6 +3,9 @@
 Antes de começar a versionar seus arquivos, é importante configurar o **nome** e o **e-mail** do usuário que o Git vai usar para registrar suas alterações.
 
 # 🚩 Dentro do repositório
+- Acesse o git bash
+
+![alt text](images/gitbash.png)
 
 ## ✅ 1. Configurar Nome do Usuário
 
