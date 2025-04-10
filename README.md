@@ -49,7 +49,7 @@ git push origin seu_nome
 
 ---
 
-### ✅ Desafio 6 — Simular o merge (opcional)
+### ✅ Desafio 6 — Realizar o merge
 ```bash
 git checkout main
 git merge seu_nome
