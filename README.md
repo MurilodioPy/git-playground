@@ -15,7 +15,8 @@ git clone https://github.com/MurilodioPy/git-playground.git
 cd git-playground
 ```
 
----
+### 🔗 Link do arquivo de configuração do usuário do gitHub
+[Configuração do gitHub](manual\gitconfig.md)
 
 ### ✅ Desafio 2 — Criar uma branch com seu nome
 ```bash
