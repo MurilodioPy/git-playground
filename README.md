@@ -15,7 +15,8 @@ git clone https://github.com/MurilodioPy/git-playground.git
 cd git-playground
 ```
 
----
+### 🔗 Link do arquivo de configuração do usuário do gitHub
+[Configuração do gitHub](manual\gitconfig.md)
 
 ### ✅ Desafio 2 — Criar uma branch com seu nome
 ```bash
@@ -48,7 +49,7 @@ git push origin seu_nome
 
 ---
 
-### ✅ Desafio 6 — Simular o merge (opcional)
+### ✅ Desafio 6 — Realizar o merge
 ```bash
 git checkout main
 git merge seu_nome
@@ -58,8 +59,8 @@ git merge seu_nome
 
 ### ✅ Desafio 7 — Criar e resolver um conflito (extra)
 1. Edite a mesma linha no `seu_nome.md` na branch `main` e na sua branch;
-2. Faça o merge e resolva o conflito.
-
+2. Realize o commit da main
+3. Faça o merge e resolva o conflito.
 ---
 
 ### ✅ Desafio 8 — Subir o merge
